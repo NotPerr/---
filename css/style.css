@@ -104,7 +104,7 @@ nav {
     left: -55px;
     width: 201px;
     height: 106px;
-    background-image: url("/img/btn-2.png");
+    background-image: url("https://notperr.github.io/exchange-project/img/btn-2.png");
 }
 .btn-2 .a:hover {cursor: pointer;}
 .btn-2 .a:hover + .btn-2-hover{
@@ -117,7 +117,7 @@ nav {
     left: -80px;
     width: 380px;
     height: 270px;
-    background-image: url("/img/btn-3.png");
+    background-image: url("https://notperr.github.io/exchange-project/img/btn-3.png");
 }
 .btn-3 .a:hover {cursor: pointer;}
 .btn-3 .a:hover + .btn-3-hover{
@@ -130,7 +130,7 @@ nav {
     left:30px;
     width: 200px;
     height: 171px;
-    background-image: url("/img/btn-4.png");
+    background-image: url("https://notperr.github.io/exchange-project/img/btn-4.png");
 }
 .btn-4 .a:hover {cursor: pointer;}
 .btn-4 .a:hover + .btn-4-hover{
@@ -217,7 +217,7 @@ nav {
     position: relative;
     width: 352px;
     height: 603px;
-    background-image: url(/img/table-1.png);
+    background-image: url("https://notperr.github.io/exchange-project/img/table-1.png");
 }
 
 .mySlides {display: none}
