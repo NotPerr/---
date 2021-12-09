@@ -217,7 +217,7 @@ nav {
     position: relative;
     width: 352px;
     height: 603px;
-    background-image: url("/img/table-1.png");
+    background-image: url(/img/table-1.png);
 }
 
 .mySlides {display: none}
